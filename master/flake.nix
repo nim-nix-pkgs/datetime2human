@@ -11,7 +11,6 @@
   inputs.src-datetime2human-master.ref   = "refs/heads/master";
   inputs.src-datetime2human-master.owner = "juancarlospaco";
   inputs.src-datetime2human-master.repo  = "nim-datetime2human";
-  inputs.src-datetime2human-master.dir   = "";
   inputs.src-datetime2human-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
