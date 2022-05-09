@@ -7,7 +7,7 @@
   "license": "LGPLv3",
   "web": "https://github.com/juancarlospaco/nim-datetime2human",
   "refs": [
-    "fatal: unable to access 'https://github.com/juancarlospaco/nim-datetime2human/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/juancarlospaco/nim-datetime2human/': Failed to connect to github.com port 443 after 131908 ms: Network is unreachable",
     ""
   ],
   "heads": []
