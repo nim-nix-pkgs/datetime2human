@@ -7,8 +7,37 @@
   "license": "LGPLv3",
   "web": "https://github.com/juancarlospaco/nim-datetime2human",
   "refs": [
-    "fatal: unable to access 'https://github.com/juancarlospaco/nim-datetime2human/': Failed to connect to github.com port 443 after 131908 ms: Network is unreachable",
+    "refs/heads/master",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "name": "datetime2human",
+      "version": "0.2.5",
+      "author": "juancarlospaco",
+      "desc": "Human friendly DateTime string representations, seconds to millenniums.",
+      "license": "MIT",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.4"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/heads/master"
+    }
+  ]
 }
